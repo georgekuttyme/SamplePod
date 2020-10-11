@@ -1,0 +1,6 @@
+framework module SamplePodsetup {
+  umbrella header "SamplePodsetup-umbrella.h"
+
+  export *
+  module * { export * }
+}
